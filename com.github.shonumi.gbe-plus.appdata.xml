@@ -17,8 +17,8 @@
   </description>
   <url type="homepage">https://shonumi.github.io/articles.html</url>
   <screenshots>
-    <screenshot type="default" width="1024" height="576">https://github.com/flathub/com.github.shonumi.gbe-plus/raw/master/screenshots/ss-warioland.png</screenshot>
-    <screenshot width="1024" height="576">https://github.com/flathub/com.github.shonumi.gbe-plus/raw/master/screenshots/ss-gunstar.png</screenshot>
+    <screenshot type="default" width="800" height="784">https://github.com/flathub/com.github.shonumi.gbe-plus/raw/master/screenshots/ss-warioland.png</screenshot>
+    <screenshot width="1200" height="864">https://github.com/flathub/com.github.shonumi.gbe-plus/raw/master/screenshots/ss-gunstar.png</screenshot>
   </screenshots>
   <update_contact>hadess@hadess.net</update_contact>
   <project_group>GNOME</project_group>

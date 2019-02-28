@@ -1,7 +1,7 @@
 {
     "app-id" : "com.github.shonumi.gbe-plus",
     "runtime" : "org.kde.Platform",
-    "runtime-version" : "5.11",
+    "runtime-version" : "5.12",
     "sdk" : "org.kde.Sdk",
     "command" : "gbe_plus_qt",
     "finish-args" : [

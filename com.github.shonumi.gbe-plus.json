@@ -42,8 +42,8 @@
             "sources" : [
                 {
                     "type": "archive",
-                    "url" : "https://github.com/shonumi/gbe-plus/archive/1.2.tar.gz",
-                    "sha256": "84b59cc920940b1d6ed870b6f9c1c69b20c92445544c9f72ce618dc660bd7a27"
+                    "url" : "https://github.com/shonumi/gbe-plus/archive/1.3.tar.gz",
+                    "sha256": "7fdff20845a28c9b37c8d0300689c56b16fe902f404a07bcdee834ee9f24ac2c"
                 },
                 {
                     "type" : "patch",

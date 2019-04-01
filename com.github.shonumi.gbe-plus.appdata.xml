@@ -24,6 +24,7 @@
   <project_group>GNOME</project_group>
   <developer_name>Shonumi</developer_name>
   <releases>
+    <release date="2019-04-01" version="1.3"/>
     <release date="2018-04-01" version="1.2"/>
     <release date="2017-04-01" version="1.1"/>
     <release date="2016-06-20" version="1.0"/>

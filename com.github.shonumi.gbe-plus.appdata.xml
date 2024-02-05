@@ -3,7 +3,7 @@
   <id>com.github.shonumi.gbe-plus</id>
   <launchable type="desktop-id">com.github.shonumi.gbe-plus.desktop</launchable>
   <name>GB Enhanced+</name>
-  <summary>A Game Boy (Color, Advance) emulator</summary>
+  <summary>Game Boy family emulator</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <description>

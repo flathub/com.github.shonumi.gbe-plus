@@ -87,7 +87,7 @@
                 "install -d /app/share/gbe_plus/",
                 "cp -ar src/data/ /app/share/gbe_plus/",
                 "cp src/gbe.ini /app/share/gbe_plus/",
-                "install -m0644 -D src/data/icons/gbe_plus.png /app/share/icons/com.github.shonumi.gbe-plus.png",
+                "install -m0644 -D src/data/icons/gbe_plus.png /app/share/icons/hicolor/256x256/apps/${FLATPAK_ID}.png",
                 "install -m0644 -D com.github.shonumi.gbe-plus.desktop /app/share/applications/com.github.shonumi.gbe-plus.desktop"
             ]
         }

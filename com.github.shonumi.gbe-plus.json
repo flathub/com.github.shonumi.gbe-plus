@@ -12,7 +12,8 @@
         /* GPU acceleration */
         "--device=dri",
         /* Joystick access */
-        "--device=all",
+        "--require-version=1.16.0",
+        "--device=input",
         /* Play sounds */
         "--socket=pulseaudio",
         /* Network play */

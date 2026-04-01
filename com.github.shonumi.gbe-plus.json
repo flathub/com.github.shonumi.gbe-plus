@@ -36,14 +36,14 @@
             "name" : "gbe-plus",
             "buildsystem": "cmake-ninja",
             "config-opts": [
-                "-DQT_VERSION_5=on -DLINK_CABLE=on"
+                "-DLINK_CABLE=on"
             ],
             "no-make-install" : true,
             "sources" : [
                 {
                     "type": "archive",
-                    "url" : "https://github.com/shonumi/gbe-plus/archive/refs/tags/1.9.tar.gz",
-                    "sha256": "573d0eee644290ce030eb5a7f3d013335a7a82f561f065358aa53c3c84330ce7"
+                    "url" : "https://github.com/shonumi/gbe-plus/archive/refs/tags/1.10.tar.gz",
+                    "sha256": "d9ebcb361aa9066fe065edd3f6f12305d3c44dd85c90e27e79ef6c69d9639c3b"
                 },
                 {
                     "type" : "patch",

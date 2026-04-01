@@ -6,6 +6,7 @@
   <summary>Game Boy family emulator</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
+  <url type="vcs-browser">https://github.com/shonumi/gbe-plus/</url>
   <description>
     <p>
       GB Enhanced+ is an original Game Boy, Game Boy Color and Game Boy Advance
